@@ -1,0 +1,4 @@
+# Favicons
+
+- Favicon: Favorite Icon
+- 
